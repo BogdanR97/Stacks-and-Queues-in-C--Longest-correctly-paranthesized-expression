@@ -1,3 +1,3 @@
-# Stacks-and-Queues-in-C--Longest-orrectly-paranthesized-expression
+# Stacks-and-Queues-in-C--Longest-correctly-paranthesized-expression
 
 In acest proiect am implementat functionalitatile de baza a stivelor si a cozilor la nivel intern, acestea avand la baza liste simplu inlantuite. Programul are ca date de intrare siruri de paranteze, fiecare paranteza avand un id. In functie de comanda citita din fisier (urmata de input-ul prorpiu-zis), programul poate executa urmatoarele : adaugarea in stiva/coada a undei perechi index-paranteza, extragerea, sortarea si verificarea corectitudinii din punct de vedere al parantezarii expresiei date ca parametru (ofera si lungimea celui mai lung sir corect parantezat).
